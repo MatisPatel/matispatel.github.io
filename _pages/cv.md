@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Evolutionary Theory, "Helping and Harming", University of Oxford, 2019 (expected)
+* DPhil Evolutionary Theory, "Helping and Harming", University of Oxford, 2019 (expected)
 * MSc Computational Methods in Ecology and Evolution, Imperial College London, 2015
 * MA Biological Sciences, University of Oxford, 2014
 

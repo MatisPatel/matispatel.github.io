@@ -83,11 +83,11 @@ author:
   name             : "Matishalin Patel"
   avatar           : "profile.png"
   bio              : "I study the basic evolutionary theory underlying social behaviours using mathematical and computational methods."
-  location         : "University of Oxford, UK"
-  employer         :
+  location         :
+  employer         : University of Oxford
   pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=P2Fh3qoAAAAJ&hl=en"
-  email            :
+  email            : "matis.patel@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -149,7 +149,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: utf-8
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
