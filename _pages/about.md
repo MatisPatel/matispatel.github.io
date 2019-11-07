@@ -14,10 +14,3 @@ I am a DPhil student at Oxford University at the [West Group](http://zoo-web02.z
 I am especially interested in how Machine Learning algorithms can be used as a study system for evolutionary theory as well as a computational tool for biology.
 
 Please see my [CV](CV) for further details and my [Publications](Publications) for examples of my work.
-
-## Proficient in:
-- Julia
-- Mathematica
-- R
-- Python
-- LaTeX
