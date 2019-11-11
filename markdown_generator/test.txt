@@ -1,0 +1,7 @@
+---
+bibliography: 'MyPapers.bib'
+nocite: '@*'
+title: Publications
+---
+
+

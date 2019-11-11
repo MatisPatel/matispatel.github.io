@@ -125,6 +125,7 @@ for pubsource in publist:
                     md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
                     note = True
 
+            # md += "\nexcerpt" + html_escape(citation)
             md += "\ndate: " + str(pub_date)
 
             md += "\nvenue: '" + html_escape(venue) + "'"
