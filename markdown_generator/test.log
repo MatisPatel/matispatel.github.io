@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2019.9.26)  11 FEB 2020 13:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.26)  11 FEB 2020 13:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -389,7 +389,7 @@ Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
@@ -460,20 +460,12 @@ LaTeX Info: Redefining \pageref on input line 6485.
 \c@Item=\count109
 \c@Hfootnote=\count110
 )
-Package hyperref Info: Driver (default): hdvips.
+Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hdvips.def
-File: hdvips.def 2019/09/12 v6.88i Hyperref driver for dvips
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pdfmark.def
-File: pdfmark.def 2019/09/12 v6.88i Hyperref definitions for pdfmark specials
-\pdf@docset=\toks24
-\pdf@box=\box29
-\pdf@toks=\toks25
-\pdf@defaulttoks=\toks26
-\HyField@AnnotCount=\count111
-\Fld@listcount=\count112
-\c@bookmark@seq@number=\count113
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2019/09/12 v6.88i Hyperref driver for pdfTeX
+\Fld@listcount=\count111
+\c@bookmark@seq@number=\count112
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -481,7 +473,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip47
-))
+)
 Package hyperref Info: Option `breaklinks' set `true' on input line 34.
 
 (./test.aux)
@@ -515,10 +507,12 @@ LaTeX Font Info:    Try loading font information for T1+lmr on input line 59.
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \microtypecontext on input line 59.
-Package microtype Info: Generating DVI output.
+Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
-Package microtype Info: No font expansion.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -527,7 +521,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-\AtBeginShipoutBox=\box30
+\AtBeginShipoutBox=\box29
 Package hyperref Info: Link coloring OFF on input line 59.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -536,7 +530,7 @@ Package: nameref 2019/09/12 v2.45 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count114
+\c@section@level=\count113
 )
 LaTeX Info: Redefining \ref on input line 59.
 LaTeX Info: Redefining \pageref on input line 59.
@@ -599,31 +593,34 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 67.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 67.
-
-Overfull \hbox (42.1946pt too wide) in paragraph at lines 75--79
-\T1/lmr/m/n/10 Se-lec-tion Favour In-dis-crim-i-nate Spite?'' \T1/lmr/m/it/10 b
-ioRxiv\T1/lmr/m/n/10 , 745638. []$https : / / doi . org / 10 . 1101 / 745638$[]
-[]. 
- []
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
 [1
 
-]
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
- (./test.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 86.
+
+(./test.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
 Package rerunfilecheck Info: File `test.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10963 strings out of 492610
- 160415 string characters out of 6129059
- 265282 words of memory out of 5000000
- 14763 multiletter control sequences out of 15000+600000
- 41961 words of font info for 50 fonts, out of 8000000 for 9000
+ 10957 strings out of 492609
+ 160262 string characters out of 6129033
+ 260405 words of memory out of 5000000
+ 14722 multiletter control sequences out of 15000+600000
+ 43367 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,6n,38p,812b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2019/texmf-dis
+t/fonts/type1/public/lm/lmri10.pfb>
+Output written on test.pdf (1 page, 73399 bytes).
+PDF statistics:
+ 38 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 12289 words of extra memory for PDF output out of 14400 (max. 10000000)
 
-Output written on test.dvi (1 page, 4944 bytes).
