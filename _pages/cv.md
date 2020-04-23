@@ -9,6 +9,8 @@ redirect_from:
 Below is a plaintext summary of my CV [click here for a PDF](/files/Patel_Matishalin_CV.pdf)
 
 ## Research
+### April 2020 -- Present, University of Cambridge, Research Associate
+I have just begun an 18 month project on intra/intergroup conflict in banded mongooses as part of the [Banded Mongoose research project](http://socialisresearch.org/about-the-banded-mongoose-project/). 
 
 ### September 2015 -- November 2019, University of Oxford DPhil in Evolutionary Theory
 My DPhil has focused on the evolution of cooperation. My second chapter
