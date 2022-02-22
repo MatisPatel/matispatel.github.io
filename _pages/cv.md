@@ -6,11 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Below is a plaintext summary of my CV [click here for a PDF](/files/Patel_Matishalin_CV.pdf)
+Below is a plaintext summary of my CV [click here for a PDF](/files/Patel_Matishalin_CV_MC.pdf)
 
 ## Research
-### April 2020 -- Present, University of Cambridge, Research Associate
-I have just begun an 18 month project on intra/intergroup conflict in banded mongooses as part of the [Banded Mongoose research project](http://socialisresearch.org/about-the-banded-mongoose-project/). 
+
+### April 2020 -- Present, University of Cambridge, Centre for the Future of Intelligence, Research Associate
+I have joined the [Kinds of Intelligence project](http://lcfi.ac.uk/projects/kinds-of-intelligence/) and the [Animal-AI Olympics group](http://lcfi.ac.uk/projects/kinds-of-intelligence/animalaiolympics/) to work on applying insights from Major Transitions in Evolution to cognitive evolution and the development of Animal level artificial intelligences. My work is interdisciplinary and combines basic evolutionary theory, game theory and evolutionary computing.
+
+### April 2020 -- Nov 2021, University of Cambridge, Dept of Zoology, Research Associate
+Postdoc project on intra/intergroup conflict in banded mongooses as part of the [Banded Mongoose research project](http://socialisresearch.org/about-the-banded-mongoose-project/). The project developed a simulation of how warfare over resources shapes inter and intra group conflict in a system modelled on banded mongooses biology. Our work showed several interesting results about the selective pressures on cooperation and the role of resource availability. Two manuscripts are in preparation from this project.
 
 ### September 2015 -- November 2019, University of Oxford DPhil in Evolutionary Theory
 My DPhil has focused on the evolution of cooperation. My second chapter
