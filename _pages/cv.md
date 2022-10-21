@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Below is a plaintext summary of my CV [click here for a PDF](/files/Patel_Matishalin_CV_MC.pdf)
+Below is a plaintext summary of my CV [click here for a PDF](/files/Patel_Matishalin_CV_CAM_ZOO)
 
 ## Research
 
