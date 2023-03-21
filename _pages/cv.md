@@ -10,8 +10,11 @@ Below is a plaintext summary of my CV [click here for a PDF](/files/Patel_Matish
 
 ## Research
 
-### April 2020 -- Present, University of Cambridge, Centre for the Future of Intelligence, Research Associate
-I have joined the [Kinds of Intelligence project](http://lcfi.ac.uk/projects/kinds-of-intelligence/) and the [Animal-AI Olympics group](http://lcfi.ac.uk/projects/kinds-of-intelligence/animalaiolympics/) to work on applying insights from Major Transitions in Evolution to cognitive evolution and the development of Animal level artificial intelligences. My work is interdisciplinary and combines basic evolutionary theory, game theory and evolutionary computing.
+### November 2021 -- Present, University of Hull, Centre for Data Science, AI and Modelling, Lecturer
+I am a lecturer at Hull teaching primarily introductory programming for Data Science and AI to MSc students at the [Centre for Data Science, AI and Modelling](https://www.hull.ac.uk/work-with-us/research/institutes/data-science-artificial-intelligence-and-modelling). My research is in two main themes. Firstly, the evolution of symbiosis between species which I study using a combination of mathematical modelling and computer simulations. Secondly, the evolution of neural network architectures which uses AI as a study system to understand evolving complexity in cognition. 
+
+### November 2021 -- November 2022, University of Cambridge, Centre for the Future of Intelligence, Research Associate
+I joined the [Kinds of Intelligence project](http://lcfi.ac.uk/projects/kinds-of-intelligence/) and the [Animal-AI Olympics group](http://lcfi.ac.uk/projects/kinds-of-intelligence/animalaiolympics/) to work on applying insights from Major Transitions in Evolution to cognitive evolution and the development of Animal level artificial intelligences. My work is interdisciplinary and combines basic evolutionary theory, game theory and evolutionary computing.
 
 ### April 2020 -- Nov 2021, University of Cambridge, Dept of Zoology, Research Associate
 Postdoc project on intra/intergroup conflict in banded mongooses as part of the [Banded Mongoose research project](http://socialisresearch.org/about-the-banded-mongoose-project/). The project developed a simulation of how warfare over resources shapes inter and intra group conflict in a system modelled on banded mongooses biology. Our work showed several interesting results about the selective pressures on cooperation and the role of resource availability. Two manuscripts are in preparation from this project.
@@ -52,9 +55,11 @@ on a paper based on this work.
 
 2. [Uncovering the Rules of Microbial Community Invasions.](https://doi.org/10.1038/s41559-019-0952-9) Jean C Vila, Matt L Jones, Matishalin Patel, Tom Bell, and James Rosindell, Nature Ecology & Evolution, 2019. [PDF](/files/Vila2019.pdf)
 
-3. [Spite and the evolution of Super-territories.](https://doi.org/10.1101/745638) Matishalin Patel, Stuart A. West, and Jay Biernaskie, In review Evolution Letters, 2019. [PDF](/files/spite_9.pdf)
+3. [Kin discrimination, negative relatedness, and how to distinguish between selfishness and spite ](https://doi.org/10.1002/evl3.150) Matishalin Patel, Stuart A. West, and Jay Biernaskie, Evolution Letters, 2019. [PDF](/files/spite_9.pdf)
 
-* in prep, The evolution of host control of symbionts, Matishalin Patel, Stuart A. West, Manuscript
+4. [Microbial warfare and the evolution of symbiosis](https://doi.org/10.1098/rsbl.2022.0447) Matishalin Patel, Stuart A. West, Biology Letters, 2022.
+
+5. [The Evolution of Democratic Peace](https://doi.org/10.1101/2023.02.14.528470) KL Hunt, M Patel, DP Croft, DW Franks, PA Green, FJ Thompson, RA Johnstone, MA Cant, DWE Sankey, BioRxiv, 2023.
 
 * in prep, Combining social evolution and disease ecology in *Bacillus thuringiensis*, Matishalin Patel, Ben Raymond, and Stuart A. West, Manuscript
 
@@ -85,11 +90,17 @@ popular science articles. On the evolution of insect vision and the
 price equation.
 
 ### Teaching
-**2016-present:** Undergraduate Statistics Demonstrator for the
+**2021-2022 Cambridge** Undergraduate tutor in first year biology Ecology and Evolution for Lucy Cavendish college. 
+
+**2022 Cambridge** Undergraduate Lectures in behavioural ecology. 
+
+**2021-2022 Cambridge** Undergraduate lectures in Parental Care. Covering basic biology and evolutionary theory around parental care decisions.
+
+**2016-2020: Oxford** Undergraduate Statistics Demonstrator for the
 undergraduate bio-statistics course. Statistical modelling, data
 management and R programming skills.
 
-**2017-present:** Undergraduate Tutor in ecology and social evolution
+**2017-2020: Oxford** Undergraduate Tutor in ecology and social evolution
 Tutorials on programming, social evolution and Neutral theory. Tutorials
 given to groups of two students at a time and tutorial work in essay or
 problem sheet form.
