@@ -28,5 +28,3 @@ My DPhil was undertaken at Oxford University at the [West Group](http://zoo-web0
 I study the evolution of social behaviours, such as altruism and spite. My work is theoretical and I use mathematical and computational techniques to build and analyse models of evolution.
 
 I am especially interested in how Machine Learning algorithms can be used as a study system for evolutionary theory as well as a computational tool for biology.
-
-Please see my [CV](cv) for further details and my [Publications](publications) for examples of my work.
