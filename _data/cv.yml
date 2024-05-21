@@ -2,96 +2,95 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Matishalin Patel
+    # - name: Date of Birth
+    #   value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: DPhil, Helping and Harming
+      institution: University of Oxford
+      year: 2015-2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - My DPhil has focused on the evolution of cooperation. My second chapter
+focuses on the evolution of a public good (Cry toxin) in a bacteria that
+infects a seasonally varying host. In my second chapter we modelled the
+long term dynamics of the cooperator evolving. My fourth chapter looks
+at the evolution of spiteful behaviour and how that is sometimes
+conflated with selfishness when fitness effects are mis-partitioned. My
+fifth chapter looks at the symbiosis and how a host can be evolve to
+control the relatedness among its symbionts to force cooperation and
+reap the benefits. My work is theoretical with analysis done in
+Mathemtica and some programming of simulations in Julia.
+    - title: MSc Computation methods in Ecology and Evolution
+      institution: Imperial College London
+      year: 2014-2015
       description:
-        - Description 1.
-        - Description 2.
+        - Modules covering single and multivariate calculus, linear algebra,
+statistics (linear models, GLMs and ANOVA), Maximum likelihood methods,
+and Bayesian statistics. The course also covered agent based simulation
+and evolutionary simulations as well as model fitting and phylogenetic
+methods. My thesis was a nearly neutral simulation of latitudinal
+diversity gradients which was written in python based of of C code and
+run using the Imperial HPC.
+    - title: BA Biological Sciences
+      institution: University of Oxford
+      year: 2011-2014
+      description:
+        - I took modules in social evolution, behavioural ecology, evolutionary
+ecology, bio-mechanics, and animal cognition. I undertook a dissertation
+on modelling spiteful territory size evolution and am currently working
+on a paper based on this work.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Lecturer in Data Science, AI and Modelling
+      institution: University of Hull
+      year: 2022 - present
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Postdoc, Major transitions in Cognition in Animal and AI systems
+      institution: Centre for the Future of Intelligence, University of Cambridge
+      year: 2021-2022
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Postdoc, Evolution of intergroup conflict
+      institution: Department of Zoology, University of Cambridge
+      year: 2020-2021
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
