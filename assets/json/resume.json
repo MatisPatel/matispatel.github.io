@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Matishalin Patel",
-    "label": "Lecturer at the Institute for Data Science, AI and Modelling",
+    "label": "Lecturer at the University of Hull",
     "image": "",
     "email": "matishalin.patel@hull.ac.uk",
     "phone": "",
@@ -23,7 +23,7 @@
   "work": [
     {
       "name": "University of Hull",
-      "position": "Lecturer in Data Science, AI and Modelling",
+      "position": "Lecturer in Biology and AI",
       "startDate": "2022-12-31",
       "endDate": "",
       "highlights": [],
