@@ -2,11 +2,20 @@ name: Sync Template
 
 on:
   workflow_dispatch:
+    inputs:
+      source_repo_path:
+        description: 'Template repository path (owner/repo)'
+        required: true
+        type: string
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: actions-template-sync
         uses: AndreasAugustin/actions-template-sync@v2.5.2
         with:
