@@ -15,8 +15,10 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.TEMPLATE_SYNC_TOKEN }}
 
       - name: actions-template-sync
         uses: AndreasAugustin/actions-template-sync@v2.5.2
         with:
-          source_repo_path: 'alshedivat/al-folio'
+          source_repo_path: alshedivat/al-folio
+          github_token: ${{ secrets.TEMPLATE_SYNC_TOKEN }}
