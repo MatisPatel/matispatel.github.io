@@ -9,3 +9,5 @@ jobs:
     steps:
       - name: actions-template-sync
         uses: AndreasAugustin/actions-template-sync@v2.5.2
+        with:
+          source_repo_path: 'alshedivat/al-folio'
